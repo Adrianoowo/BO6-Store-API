@@ -1,0 +1,130 @@
+{
+    "version": "1.0.0",
+    "bundles": [
+        {
+            "id": 0,
+            "name": "CDL Launch Pack",
+            "description": "CDL Launch Pack",
+            "price": 2000,
+            "items": [
+                {
+                    "type": "Operator Skin",
+                    "name": "2025 CDL HOME",
+                    "operator": "Competitor"
+                },
+                {
+                    "type": "Operator Skin",
+                    "name": "2025 CDL AWAY",
+                    "operator": "Competitor"
+                },
+                {
+                    "type": "Camo",
+                    "name": "Splashed"
+                },
+                {
+                    "type": "Calling Card",
+                    "name": "It's never chalked",
+                    "rarity": "Rare"
+                },
+                {
+                    "type": "Calling Card",
+                    "name": "The competitor",
+                    "rarity": "Legendary"
+                },
+                {
+                    "type": "Weapon Charm",
+                    "name": "To the bank",
+                    "rarity": "Rare"
+                },
+                {
+                    "type": "Large Decal",
+                    "name": "Furocious",
+                    "rarity": "Rare"
+                },
+                {
+                    "type": "Emblem",
+                    "name": "1V1 me",
+                    "rarity": "Rare"
+                },
+                {
+                    "type": "Spray",
+                    "name": "EZ XP",
+                    "rarity": "Rare"
+                },
+                {
+                    "type": "Emblem",
+                    "name": "It's my year",
+                    "rarity": "Legendary"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Tracer Pack: The Replacer",
+            "description": "The Replacer rolls into the game with extreme badassery, now available in the Tracer Pack: The Replacer Bundle. Own Season 1 BkackCell and receive a BlackCell Bonus Skin upon purchase of this bundle.",
+            "price": 2400,
+            "items": [
+                {
+                    "type": "Operator Skin",
+                    "name": "The Replacer",
+                    "operator": "The Replacer",
+                    "description": "\"I'm your daddy now.\" - The Replacer",
+                    "rarity": "Legendary"
+                },
+                {
+                    "type": "Operator Skin",
+                    "name": "The Replacer BlackCell",
+                    "operator": "The Replacer",
+                    "description": "BlackCell status has been bestawed upon The Replacer for exceptional service in the field.",
+                    "rarity": "BlackCell"
+                },
+                {
+                    "type": "Blueprint",
+                    "weapon": "AS VAL",
+                    "name": "Quick Wit",
+                    "description": "Shoot first with the Quick Wit Weapon Blueprint.",
+                    "rarity": "Legendary",
+                    "effects": [
+                        {
+                            "type": "Tracer",
+                            "name": "Badassery Tracers"
+                        }
+                    ]
+                },
+                {
+                    "type": "Blueprint",
+                    "weapon": "PU-21",
+                    "name": "Ramifications",
+                    "description": "Pass out some justice with the Ramifications Weapon Blueprint.",
+                    "rarity": "Legendary",
+                    "effects": [
+                        {
+                            "type": "Tracer",
+                            "name": "Badassery Tracers"
+                        }
+                    ]
+                },
+                {
+                    "type": "Finishing Move",
+                    "name": "Replacement Killer",
+                    "rarity": "Legendary"
+                },
+                {
+                    "type": "Weapon Charm",
+                    "name": "Baby",
+                    "rarity": "Legendary"
+                },
+                {
+                    "type": "Calling Card",
+                    "name": "Aura +5000",
+                    "rarity": "Legendary"
+                },
+                {
+                    "type": "Emblem",
+                    "name": "Many hats",
+                    "rarity": "Legendary"
+                }
+            ]
+        }
+    ]
+}
