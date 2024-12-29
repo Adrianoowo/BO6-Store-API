@@ -1,8 +1,7 @@
 {
     "version": "1.0.0",
-    "bundles": [
-        {
-            "id": 0,
+    "bundles": {
+        "cdl_launch_pack": {
             "name": "CDL Launch Pack",
             "description": "CDL Launch Pack",
             "price": 2000,
@@ -58,8 +57,7 @@
                 }
             ]
         },
-        {
-            "id": 1,
+        "tracer_pack_the_replacer": {
             "name": "Tracer Pack: The Replacer",
             "description": "The Replacer rolls into the game with extreme badassery, now available in the Tracer Pack: The Replacer Bundle. Own Season 1 BkackCell and receive a BlackCell Bonus Skin upon purchase of this bundle.",
             "price": 2400,
@@ -126,5 +124,5 @@
                 }
             ]
         }
-    ]
+    }
 }
